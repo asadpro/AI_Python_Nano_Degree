@@ -1,0 +1,12 @@
+Quantum computing is a new way of computing that uses the principles of quantum mechanics 
+to perform calculations that are much faster and more powerful than those of traditional computers.
+In a traditional computer, information is processed and stored using bits, which can be
+either a 0 or a 1. Quantum computers use quantum bits, or qubits, which can represent 
+both a 0 and a 1 at the same time. This property, known as superposition, allows quantum
+computers to perform many calculations in parallel, making them much faster than traditional 
+computers for certain types of problems.Quantum computers also use another quantum mechanical property called entanglement, which
+allows them to perform certain calculations much more quickly than would be possible with
+a traditional computer.Quantum computing is still in its early stages, and there are many
+challenges that need to be overcome before it can be widely used. However, it has the potential
+to revolutionize fields such as cryptography, drug discovery, and machine learning, and is an 
+active area of research and development in the field of computer science.
