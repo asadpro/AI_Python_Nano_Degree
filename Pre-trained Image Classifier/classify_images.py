@@ -67,7 +67,7 @@ def classify_images(images_dir, results_dic, model):
     """
 
     for key in results_dic:
-        classified = classifier(images_dir + "/", model)
+        classified = classifier(images_dir + "/" + key, model)
         modelLabel = classified.lower().strip()
 
         true_value = results_dic[key][0]
